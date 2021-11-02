@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+.env
+main
+
+vendor/
